@@ -1,0 +1,137 @@
+{
+  "General Knowledge": [
+    {
+      "question": "The Earth is flat.",
+      "answer": false,
+      "difficulty": "easy"
+    },
+    {
+      "question": "The speed of light is faster than the speed of sound.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "There are more than seven continents in the world.",
+      "answer": false,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The human heart has five chambers.",
+      "answer": false,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Albert Einstein developed the theory of relativity.",
+      "answer": true,
+      "difficulty": "hard"
+    }
+  ],
+  "Movies": [
+    {
+      "question": "The movie 'The Shawshank Redemption' was released in 1984.",
+      "answer": false,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Tom Hanks won an Oscar for his role in 'Forrest Gump'.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "The 'Lord of the Rings' trilogy consists of four movies.",
+      "answer": false,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Stanley Kubrick directed the movie '2001: A Space Odyssey'.",
+      "answer": true,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The first 'Star Wars' movie was released in 1999.",
+      "answer": false,
+      "difficulty": "hard"
+    }
+  ],
+  "Music": [
+    {
+      "question": "The Beatles were an English rock band.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Elvis Presley is known as the 'King of Rock and Roll'.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Beethoven was completely deaf when he wrote some of his most famous pieces.",
+      "answer": true,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The genre 'Reggae' originated in Brazil.",
+      "answer": false,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The saxophone is a woodwind instrument.",
+      "answer": true,
+      "difficulty": "hard"
+    }
+  ],
+  "Television": [
+    {
+      "question": "The first season of 'The Simpsons' aired in 1989.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "The TV show 'Seinfeld' is often described as 'a show about nothing'.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "'The Sopranos' is set in New York City.",
+      "answer": false,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The longest-running American TV show is a soap opera.",
+      "answer": true,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Sherlock Holmes is a fictional character created by J.K. Rowling.",
+      "answer": false,
+      "difficulty": "hard"
+    }
+  ],
+  "Video Games": [
+    {
+      "question": "The original PlayStation was released in 1994.",
+      "answer": true,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Mario is the main character in the 'Halo' franchise.",
+      "answer": false,
+      "difficulty": "easy"
+    },
+    {
+      "question": "The first Grand Theft Auto game had a top-down perspective.",
+      "answer": true,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The Nintendo Wii outsold the Sony PlayStation 3.",
+      "answer": true,
+      "difficulty": "medium"
+    },
+    {
+      "question": "The first commercial video game was called 'Pong'.",
+      "answer": true,
+      "difficulty": "hard"
+    }
+  ]
+}

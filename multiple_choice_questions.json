@@ -1,0 +1,162 @@
+{
+  "General Knowledge": [
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+      "answer": "Mars",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In which country can you visit Machu Picchu?",
+      "options": ["Brazil", "Peru", "Colombia", "Chile"],
+      "answer": "Peru",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Perth", "Canberra", "Melbourne"],
+      "answer": "Canberra",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile",
+      "difficulty": "hard"
+    }
+  ],
+  "Movies": [
+    {
+      "question": "Who directed the movie 'Titanic'?",
+      "options": ["Steven Spielberg", "Martin Scorsese", "James Cameron", "Christopher Nolan"],
+      "answer": "James Cameron",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which movie features the character Jack Sparrow?",
+      "options": ["Pirates of the Caribbean", "Captain Phillips", "Treasure Island", "Peter Pan"],
+      "answer": "Pirates of the Caribbean",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the highest-grossing film of all time?",
+      "options": ["Avatar", "Titanic", "Avengers: Endgame", "Star Wars: The Force Awakens"],
+      "answer": "Avatar",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In which movie is the fictional character Darth Vader a central character?",
+      "options": ["Star Trek", "Blade Runner", "Star Wars", "The Matrix"],
+      "answer": "Star Wars",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who played the lead role in the 2013 film 'The Wolf of Wall Street'?",
+      "options": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
+      "answer": "Leonardo DiCaprio",
+      "difficulty": "hard"
+    }
+  ],
+  "Music": [
+    {
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Michael Jackson", "Justin Bieber", "Prince"],
+      "answer": "Michael Jackson",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which band released the album 'Dark Side of the Moon'?",
+      "options": ["Pink Floyd", "The Beatles", "Led Zeppelin", "Queen"],
+      "answer": "Pink Floyd",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was Freddie Mercury's real name?",
+      "options": ["Frederick Bulsara", "Farrokh Bulsara", "Fredrick Mercury", "Farrokh Mercury"],
+      "answer": "Farrokh Bulsara",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which artist sang 'Like a Rolling Stone'?",
+      "options": ["Bob Dylan", "Bruce Springsteen", "Neil Young", "John Lennon"],
+      "answer": "Bob Dylan",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who composed the Four Seasons?",
+      "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Antonio Vivaldi"],
+      "answer": "Antonio Vivaldi",
+      "difficulty": "hard"
+    }
+  ],
+  "Television": [
+    {
+      "question": "Which TV series is set in the fictional town of Hawkins, Indiana?",
+      "options": ["Stranger Things", "Twin Peaks", "The X-Files", "Riverdale"],
+      "answer": "Stranger Things",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the main character in the TV series 'Breaking Bad'?",
+      "options": ["Jesse Pinkman", "Walter White", "Saul Goodman", "Hank Schrader"],
+      "answer": "Walter White",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the fictional continent where the majority of 'Game of Thrones' is set?",
+      "options": ["Middle-earth", "Westeros", "Narnia", "Essos"],
+      "answer": "Westeros",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In 'Friends', who is known for saying 'How you doin'?'",
+      "options": ["Joey Tribbiani", "Chandler Bing", "Ross Geller", "Monica Geller"],
+      "answer": "Joey Tribbiani",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which TV show features a chemistry teacher turned meth producer?",
+      "options": ["Dexter", "Ozark", "Breaking Bad", "Narcos"],
+      "answer": "Breaking Bad",
+      "difficulty": "hard"
+    }
+  ],
+  "Video Games": [
+    {
+      "question": "What is the best-selling video game of all time?",
+      "options": ["Tetris", "Minecraft", "Grand Theft Auto V", "Wii Sports"],
+      "answer": "Minecraft",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which video game features cities named Liberty City, Vice City, and San Andreas?",
+      "options": ["Grand Theft Auto", "SimCity", "Fallout", "The Elder Scrolls"],
+      "answer": "Grand Theft Auto",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In which game do players compete in the Battle Royale mode on the island of Erangel?",
+      "options": ["Fortnite", "PlayerUnknown's Battlegrounds", "Call of Duty: Warzone", "Apex Legends"],
+      "answer": "PlayerUnknown's Battlegrounds",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is known as the 'Hero of Time' in the Legend of Zelda series?",
+      "options": ["Mario", "Link", "Donkey Kong", "Sonic"],
+      "answer": "Link",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the primary objective in 'Minecraft'?",
+      "options": ["Build structures", "Survive and explore", "Rescue the princess", "Win the race"],
+      "answer": "Survive and explore",
+      "difficulty": "hard"
+    }
+  ]
+}
