@@ -47,7 +47,7 @@ class TriviaGameApp:
     def submit_answer(self, answer):
         correct = self.game_logic.submit_answer(answer)
         if correct:
-            if self.game_logic.question_number > 16:
+            if self.game_logic.question_number >= 16:
                 self.show_winner()
             else:
                 score_info = {
@@ -66,7 +66,7 @@ class TriviaGameApp:
         final_frame = tk.Frame(self.root, bg='black')
         final_frame.pack(expand=True, fill='both')
         tk.Label(final_frame,
-                 text=f"Congratulations! You are the winner and won: R${self.game_logic.calculate_final_score()}",
+                 text=f"Congratulations! You are the winner and won: ${self.game_logic.calculate_final_score()}",
                  bg='black', fg='white', font=('Helvetica', 16)).pack(expand=True)
         tk.Button(final_frame, text="Restart", command=self.show_main_menu, bg='black', fg='white',
                   font=('Helvetica', 16)).pack()

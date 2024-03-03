@@ -29,6 +29,36 @@
       "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
       "answer": "Nile",
       "difficulty": "hard"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "options": ["Vatican City", "Monaco", "Nauru", "Liechtenstein"],
+      "answer": "Vatican City",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which country has the largest population?",
+      "options": ["India", "USA", "China", "Indonesia"],
+      "answer": "China",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": "Diamond",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Ge", "Ga"],
+      "answer": "Au",
+      "difficulty": "easy"
     }
   ],
   "Movies": [
@@ -61,37 +91,97 @@
       "options": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
       "answer": "Leonardo DiCaprio",
       "difficulty": "hard"
+    },
+    {
+      "question": "Which film won the first ever Academy Award for Best Picture?",
+      "options": ["Wings", "The Jazz Singer", "Sunrise", "Metropolis"],
+      "answer": "Wings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the only actor to win three Best Actor Oscars?",
+      "options": ["Tom Hanks", "Daniel Day-Lewis", "Jack Nicholson", "Marlon Brando"],
+      "answer": "Daniel Day-Lewis",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What year was the original 'Jurassic Park' film released?",
+      "options": ["1990", "1993", "1996", "1999"],
+      "answer": "1993",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which movie features the song 'My Heart Will Go On'?",
+      "options": ["Titanic", "The Bodyguard", "Romeo + Juliet", "Moulin Rouge!"],
+      "answer": "Titanic",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who directed 'Pulp Fiction'?",
+      "options": ["Quentin Tarantino", "Steven Spielberg", "Martin Scorsese", "Christopher Nolan"],
+      "answer": "Quentin Tarantino",
+      "difficulty": "medium"
     }
   ],
-  "Music": [
+  "History": [
     {
-      "question": "Who is known as the 'King of Pop'?",
-      "options": ["Elvis Presley", "Michael Jackson", "Justin Bieber", "Prince"],
-      "answer": "Michael Jackson",
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "answer": "George Washington",
       "difficulty": "easy"
     },
     {
-      "question": "Which band released the album 'Dark Side of the Moon'?",
-      "options": ["Pink Floyd", "The Beatles", "Led Zeppelin", "Queen"],
-      "answer": "Pink Floyd",
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1915", "1905", "1898"],
+      "answer": "1912",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What ancient civilization built the Machu Picchu complex in Peru?",
+      "options": ["The Aztecs", "The Mayans", "The Incas", "The Olmecs"],
+      "answer": "The Incas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who was known as the Iron Lady?",
+      "options": ["Margaret Thatcher", "Indira Gandhi", "Angela Merkel", "Hillary Clinton"],
+      "answer": "Margaret Thatcher",
       "difficulty": "easy"
     },
     {
-      "question": "What was Freddie Mercury's real name?",
-      "options": ["Frederick Bulsara", "Farrokh Bulsara", "Fredrick Mercury", "Farrokh Mercury"],
-      "answer": "Farrokh Bulsara",
+      "question": "Which war was fought between the North and South regions in the United States?",
+      "options": ["The Revolutionary War", "The Civil War", "The Vietnam War", "World War II"],
+      "answer": "The Civil War",
       "difficulty": "medium"
     },
     {
-      "question": "Which artist sang 'Like a Rolling Stone'?",
-      "options": ["Bob Dylan", "Bruce Springsteen", "Neil Young", "John Lennon"],
-      "answer": "Bob Dylan",
+      "question": "Who was the Egyptian queen famous for her beauty and love affairs with Julius Caesar and Mark Antony?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Meritamen"],
+      "answer": "Cleopatra",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the main cause of the French Revolution?",
+      "options": ["Religious conflicts", "Economic hardships", "The king's tyranny", "Foreign invasion"],
+      "answer": "Economic hardships",
       "difficulty": "medium"
     },
     {
-      "question": "Who composed the Four Seasons?",
-      "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Antonio Vivaldi"],
-      "answer": "Antonio Vivaldi",
+      "question": "Which country was the first to grant women the right to vote in 1893?",
+      "options": ["United States", "New Zealand", "Australia", "United Kingdom"],
+      "answer": "New Zealand",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+      "answer": "Thomas Jefferson",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the largest empire in history?",
+      "options": ["The Roman Empire", "The British Empire", "The Mongol Empire", "The Ottoman Empire"],
+      "answer": "The British Empire",
       "difficulty": "hard"
     }
   ],
@@ -125,6 +215,36 @@
       "options": ["Dexter", "Ozark", "Breaking Bad", "Narcos"],
       "answer": "Breaking Bad",
       "difficulty": "hard"
+    },
+    {
+      "question": "Which series is based on a novel by George R.R. Martin?",
+      "options": ["The Witcher", "Game of Thrones", "The Expanse", "Outlander"],
+      "answer": "Game of Thrones",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who played the Doctor in the 2005 revival of 'Doctor Who'?",
+      "options": ["David Tennant", "Matt Smith", "Christopher Eccleston", "Peter Capaldi"],
+      "answer": "Christopher Eccleston",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the longest running TV show in the US?",
+      "options": ["The Simpsons", "Law & Order", "Gunsmoke", "Saturday Night Live"],
+      "answer": "The Simpsons",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which show features the fictional location of Dunder Mifflin?",
+      "options": ["Parks and Recreation", "Brooklyn Nine-Nine", "The Office", "30 Rock"],
+      "answer": "The Office",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What year did 'Friends' first premiere?",
+      "options": ["1994", "1996", "1998", "2000"],
+      "answer": "1994",
+      "difficulty": "medium"
     }
   ],
   "Video Games": [
@@ -157,6 +277,36 @@
       "options": ["Build structures", "Survive and explore", "Rescue the princess", "Win the race"],
       "answer": "Survive and explore",
       "difficulty": "hard"
+    },
+    {
+      "question": "Which game introduced the character 'Mario'?",
+      "options": ["Super Mario Bros.", "Donkey Kong", "Mario Kart", "Super Mario 64"],
+      "answer": "Donkey Kong",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What year was the PlayStation 1 released?",
+      "options": ["1991", "1994", "1996", "1999"],
+      "answer": "1994",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which game is known for the quote 'It's dangerous to go alone! Take this'?",
+      "options": ["Final Fantasy", "The Legend of Zelda", "Mega Man", "Castlevania"],
+      "answer": "The Legend of Zelda",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the protagonist in 'Half-Life'?",
+      "options": ["Gordon Freeman", "Master Chief", "Marcus Fenix", "Nathan Drake"],
+      "answer": "Gordon Freeman",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which company developed the game 'Overwatch'?",
+      "options": ["Valve", "Blizzard Entertainment", "Ubisoft", "Electronic Arts"],
+      "answer": "Blizzard Entertainment",
+      "difficulty": "medium"
     }
   ]
 }
